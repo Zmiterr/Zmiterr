@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```jsx
+const greeting = (name) => {
+    console.log(`Hello, ${name}! Glad to see you in my profile.`);
+    };
+```
+
 <!--
 **Zmiterr/Zmiterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
