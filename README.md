@@ -10,7 +10,7 @@ const greeting = (name) => {
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	315nyyae73tsvxqaxoro6fawvxx4)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="zmiter Spotify Playing" width="350" />](https://open.spotify.com/user/	315nyyae73tsvxqaxoro6fawvxx4)
 
 ### Connect with me:
 
@@ -38,10 +38,6 @@ const greeting = (name) => {
 
 <br />
 <br />
-
----
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zmiterr&show_icons=true&hide_border=true" />
 
 
 
